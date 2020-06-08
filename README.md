@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to libjava2d 👋</h1>
+<h1 align="center">libjava2d </h1>
 <p>
   <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" target="_blank">
     <img alt="License: GPL 3.0" src="https://img.shields.io/badge/License-GPL 3.0-yellow.svg" />
