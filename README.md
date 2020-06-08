@@ -21,7 +21,7 @@ Import the .jar into your Java project, or directly use the classes
 
 * Github: [@commanderHR1](https://github.com/commanderHR1)
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/commanderHR1/libjava2d/issues). 
 
