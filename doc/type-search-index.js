@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"Grid"},{"p":"<Unnamed>","l":"Table"}]
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"AutoSortList2D"},{"p":"<Unnamed>","l":"Coordinate"},{"p":"<Unnamed>","l":"CoordinateMap2D"},{"p":"<Unnamed>","l":"Grid"},{"p":"<Unnamed>","l":"LinkedMap2D"},{"p":"<Unnamed>","l":"Table"}]

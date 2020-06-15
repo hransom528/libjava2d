@@ -7,8 +7,8 @@ import java.util.Collection;
  * @version 1.0
  */
 public class Table<T> implements Cloneable  {
-	private int xSize;
-	private int ySize;
+	private final int xSize;
+	private final int ySize;
 	private final Class<? extends T> cls;
 	private T[][] table;
 
