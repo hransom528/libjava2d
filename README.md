@@ -33,3 +33,6 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2020 [Harris Ransom](https://github.com/commanderHR1).<br />
 This project is [GPL 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) licensed.
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)
